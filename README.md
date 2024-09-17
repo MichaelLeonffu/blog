@@ -1,6 +1,3 @@
----
-draft: true
----
 # Blog
 
 Yet another blog.
