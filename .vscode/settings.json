@@ -1,0 +1,6 @@
+{
+    "frontMatter.content.publicFolder": "assets",
+    "frontMatter.preview.host": "http://localhost:4000",
+    "[markdown]": {},
+    "frontMatter.dashboard.openOnStart": true
+}
